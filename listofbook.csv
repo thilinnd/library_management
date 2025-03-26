@@ -1,0 +1,21 @@
+BookID,Timestamp,Name,Author,Category
+S001,19890815,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-help
+S002,19361001,How to Win Friends and Influence People,Dale Carnegie,Self-help
+S003,20181016,Atomic Habits,James Clear,Self-help
+S004,19971006,The Power of Now,Eckhart Tolle,Self-help
+S005,19370101,Think and Grow Rich,Napoleon Hill,Self-help
+N001,19600711,To Kill a Mockingbird,Harper Lee,Novel
+N002,19490608,1984,George Orwell,Novel
+N003,18130128,Pride and Prejudice,Jane Austen,Novel
+N004,19250410,The Great Gatsby,F. Scott Fitzgerald,Novel
+N005,18511018,Moby-Dick,Herman Melville,Novel
+P001,20050101,Introduction to the Theory of Computation,Michael Sipser,Programming
+P002,20080801,Clean Code,Robert C. Martin,Programming
+P003,19991030,The Pragmatic Programmer,Andrew Hunt & David Thomas,Programming
+P004,19941021,Design Patterns,Erich Gamma et al.,Programming
+P005,20141227,You Don't Know JS,Kyle Simpson,Programming
+B001,20110913,The Lean Startup,Eric Ries,Business
+B002,19970401,Rich Dad Poor Dad,Robert Kiyosaki,Business
+B003,20011016,Good to Great,Jim Collins,Business
+B004,19970601,The Innovator’s Dilemma,Clayton Christensen,Business
+B005,20140916,Zero to One,Peter Thiel,Business
